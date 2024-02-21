@@ -4,4 +4,4 @@ Disallow: /nogooglebot/
 User-agent: *
 Allow: /
 
-Sitemap: http://z.nofwl.com/sitemap.xml
+Sitemap: https://z.nofwl.com/sitemap.xml
